@@ -1,1 +1,1 @@
-# A-Machine-Learning-based-Approach-for-IPL-Result-Predictions
+# A Machine Learning approach towards predicting IPL game outcomes based on Team Performance
